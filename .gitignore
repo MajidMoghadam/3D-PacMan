@@ -1,10 +1,10 @@
 # Ignore these directories
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+3D-Pacman/[Ll]ibrary/
+3D-Pacman/[Tt]emp/
+3D-Pacman/[Oo]bj/
+3D-Pacman/[Bb]uild/
+3D-Pacman/[Bb]uilds/
+3D-Pacman/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
